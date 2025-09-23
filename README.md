@@ -42,7 +42,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📫 Contact Me
 - **Email:** [jeevansiva2005@gmail.com](mailto:jeevansiva2005@gmail.com)
-- **LinkedIn:** [Jeevan Sarasram](https://www.linkedin.com/in/jeevansarasram/)
+- **LinkedIn:** [Jeevan Sarasram](https://www.linkedin.com/in/JeevanSarasramSS/)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
