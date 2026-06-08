@@ -37,12 +37,6 @@ I enjoy building scalable applications, solving challenging problems, and explor
 
 ---
 
-## 📊 GitHub Contributions
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeevanSarasramSS\&theme=github-compact)
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake Animation](https://raw.githubusercontent.com/JeevanSarasramSS/JeevanSarasramSS/output/github-contribution-grid-snake.svg)
