@@ -6,7 +6,7 @@ I enjoy building scalable applications, solving challenging problems, and explor
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 
