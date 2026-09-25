@@ -43,13 +43,13 @@ I enjoy building scalable applications, solving challenging problems, and explor
 
 ---
 
-## 💻 LeetCode Stats
+## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JeevanSarasramSS?theme=dark\&font=baloo\&ext=heatmap)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * Email: [jeevansiva2005@gmail.com](mailto:jeevansiva2005@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/JeevanSarasramSS/
@@ -66,4 +66,4 @@ I enjoy building scalable applications, solving challenging problems, and explor
 * Machine Learning Projects
 * Open Source Contributions
 
-⭐ Always open to collaborating on impactful projects and learning opportunities.
+Always open to collaborating on impactful projects and learning opportunities.
